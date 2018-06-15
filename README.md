@@ -4,7 +4,7 @@
 Matlab (≥R2014a)
 # Usage guides:
 NAMDD offers a function named 'NAMDDmain' to show  how to use NAMDD find methylation-disease path associations.
-NAMDD offers a function named 'newCalcuNNCAUC' to help users to calculate AUC values.
+NAMDD offers a function named 'cal_AUC' to help users to calculate AUC values.
 Details on each function are given in the code of NAMDD package.
 
 # NAMDDdataset_GitHub
